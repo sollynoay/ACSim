@@ -6,3 +6,6 @@ This repository is still under construction. A demo with blender built-in ray me
 
 # Test
 Open test.blend, install the add-on SonarRT.zip. Press F12. 
+
+# Documentation
+Documentation is [here](https://sollynoay.github.io/ACSim-docs/). Still working on it. 
