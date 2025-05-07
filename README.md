@@ -16,7 +16,7 @@ A demo using Blender’s built-in ray-mesh intersection engine is available for 
 ## 🛠️ Development with Built-in Ray-Mesh Intersection
 
 1. Open `built-in/wakachiku.blend`.  
-2. In the Scripting tab:  
+2. In the Code tab:  
    - Run `sonarRT_plugin.py` (click ▶️).  
    - Run `sonarRT_UIpanels.py` (click ▶️).
 
