@@ -1,6 +1,6 @@
 # ACSim
 
-**ACSim**: A Novel Acoustic Camera Simulator with Recursive Ray Tracing, Artifact Modeling, and Ground Truthing [link](https://ieeexplore.ieee.org/document/10967163). 
+**ACSim**: A Novel Acoustic Camera Simulator with Recursive Ray Tracing, Artifact Modeling, and Ground Truthing (TRO2025). [paper](https://ieeexplore.ieee.org/document/10967163) 
 
 ## 🚧 Notice
 
