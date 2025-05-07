@@ -1,14 +1,26 @@
 # ACSim
-Official repository for ACSim: A Novel Acoustic Camera Simulator with Recursive Ray Tracing, Artifact Modeling and Ground Truthing.
 
-# Notice
-This repository is still under construction. A demo with blender built-in ray mesh intersection engine is offered for trial. 
+**ACSim**: A Novel Acoustic Camera Simulator with Recursive Ray Tracing, Artifact Modeling, and Ground Truthing.
 
-# Quick start
-Open test.blend in demo folder, install the add-on SonarRT.zip. Press F12.
+## 🚧 Notice
 
-# Develop with built-in ray-mesh intersection
-Open wakachiku.blend in built-in folder. Code->sonarRT_plugin, click play. Code->sonarRT_UIpanels, click play. 
+This repository is currently under active development.  
+A demo using Blender’s built-in ray-mesh intersection engine is available for trial.
 
-# Documentation
-Documentation is [here](https://sollynoay.github.io/ACSim-docs/). Still working on it. 
+## ⚡ Quick Start
+
+1. Open `demo/test.blend` in Blender.  
+2. Install the add-on `SonarRT.zip`.  
+3. Press `F12` to render.
+
+## 🛠️ Development with Built-in Ray-Mesh Intersection
+
+1. Open `built-in/wakachiku.blend`.  
+2. In the Scripting tab:  
+   - Run `sonarRT_plugin.py` (click ▶️).  
+   - Run `sonarRT_UIpanels.py` (click ▶️).
+
+## 📚 Documentation
+
+The documentation is available [here](https://sollynoay.github.io/ACSim-docs/) (currently in progress).
+
