@@ -20,6 +20,10 @@ A demo using Blender’s built-in ray-mesh intersection engine is available for 
    - Run `sonarRT_plugin.py` (click ▶️).  
    - Run `sonarRT_UIpanels.py` (click ▶️).
 
+## Dataset
+We also share the synthetic dataset we used for training. 
+[flow](http://gofile.me/7aSbh/XhN1d02kj)
+
 ## 📚 Documentation
 
 The documentation is available [here](https://sollynoay.github.io/ACSim-docs/) (currently in progress).
