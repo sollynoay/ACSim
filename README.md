@@ -21,8 +21,8 @@ A demo using Blender’s built-in ray-mesh intersection engine is available for 
    - Run `sonarRT_UIpanels.py` (click ▶️).
 
 ## Dataset
-We also share the synthetic dataset we used for training. 
-[flow](http://gofile.me/7aSbh/XhN1d02kj)
+We also share the synthetic dataset we used for training.  
+[flow](http://gofile.me/7aSbh/XhN1d02kj) [3d](http://gofile.me/7aSbh/NSMrchSxy) [mask](http://gofile.me/7aSbh/ubne7Rgk9)
 
 ## 📚 Documentation
 
