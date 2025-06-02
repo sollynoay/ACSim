@@ -48,7 +48,7 @@ Full documentation is available here:
 
 ## 📝 Citation
 
-If you use **ACSim** in your research, please cite the following paper:
+If you use **ACSim** in your research or find this work useful, please cite the following paper:
 
 ```bibtex
 @ARTICLE{acsim, 
