@@ -3,14 +3,12 @@
 **ACSim** — *A Novel Acoustic Camera Simulator with Recursive Ray Tracing, Artifact Modeling, and Ground Truthing*  
 📄 Published in [IEEE Transactions on Robotics (TRO), 2025](https://ieeexplore.ieee.org/document/10967163)
 
----
 
 ## 🚧 Project Status
 
 This repository is under active development.  
 Please refer to the [documentation](https://sollynoay.github.io/ACSim-docs/) for tutorials and setup instructions.
 
----
 
 ## ⚡ Quick Start
 
@@ -18,7 +16,6 @@ Please refer to the [documentation](https://sollynoay.github.io/ACSim-docs/) for
 2. Install the add-on `SonarRT.zip`  
 3. Press `F12` to render the scene
 
----
 
 ## 🛠️ Development (Built-in Ray-Mesh Intersection)
 
@@ -27,14 +24,12 @@ Please refer to the [documentation](https://sollynoay.github.io/ACSim-docs/) for
    - Run `sonarRT_plugin.py` (click ▶️)  
    - Run `sonarRT_UIpanels.py` (click ▶️)
 
----
 
 ## 🚀 Optimized Version
 
 An accelerated version is available in the `optimized` folder.  
 Please follow the [documentation](https://sollynoay.github.io/ACSim-docs/) for environment setup and usage.
 
----
 
 ## 📦 Synthetic Dataset
 
@@ -44,14 +39,12 @@ We provide a synthetic dataset used in training and evaluation:
 - [3D Geometry](http://gofile.me/7aSbh/NSMrchSxy)  
 - [Segmentation Masks](http://gofile.me/7aSbh/ubne7Rgk9)
 
----
 
 ## 📚 Documentation
 
 Full documentation is available here:  
 👉 [ACSim Documentation](https://sollynoay.github.io/ACSim-docs/)
 
----
 
 ## 📝 Citation
 
