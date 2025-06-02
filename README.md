@@ -7,7 +7,7 @@
 ## 🚧 Project Status
 
 This repository is under active development.  
-Please refer to the [documentation](https://sollynoay.github.io/ACSim-docs/) for tutorials and setup instructions.
+Please refer to the [documentation](https://sollynoay.github.io/ACSim-docs/) for tutorials and setup instructions. If there are any questions, you can directly send an email to me. wang@race.t.u-tokyo.ac.jp
 
 
 ## ⚡ Quick Start
