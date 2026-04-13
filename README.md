@@ -30,6 +30,12 @@ Please refer to the [documentation](https://sollynoay.github.io/ACSim-docs/) for
 An accelerated version is available in the `optimized` folder.  
 Please follow the [documentation](https://sollynoay.github.io/ACSim-docs/) for environment setup and usage.
 
+## GPU Version (under development)
+
+A GPU-based version is currently under development, implemented with **Warp**.  
+On a desktop **RTX 4090**, it takes approximately **17 ms** to process a **300 × 720** buffer and generate a final image of **128 × 720**.
+
+See [ACSim-GPU](https://github.com/sollynoay/ACSim-GPU.git).
 
 ## 📦 Synthetic Dataset
 
